@@ -236,10 +236,7 @@ npm run test:e2e
 
 ##  Поддержка
 
--  **Email**: support@jobquest.com
--  **Issues**: [GitHub Issues](https://github.com/[repo]/issues)
--  **Discord**: [Присоединитесь к нашему серверу](https://discord.gg/jobquest)
--  **Twitter**: [@JobQuestApp](https://twitter.com/jobquestapp)
+-  **Email**: zahraev36@gmail.com
 
 ---
 
