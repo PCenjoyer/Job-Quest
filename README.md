@@ -1,4 +1,4 @@
-<div align="center"> # JobQuest — Трекер поиска работы </div>
+# JobQuest — Трекер поиска работы 
 
 <div align="center">
 
