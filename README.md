@@ -3,7 +3,6 @@
 <div align="center">
 
 [![Vercel](https://img.shields.io/badge/deployed-vercel-black?style=flat-square&logo=vercel)](https://job-quest-six.vercel.app/)
-[![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
 [![Node.js](https://img.shields.io/badge/node-%3E%3D16-green?style=flat-square&logo=node.js)](https://nodejs.org)
 
 **Умная система управления процессом поиска работы с отслеживанием откликов, интервью и статусов**
